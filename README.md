@@ -2,8 +2,6 @@
 
 This repository contains interactive Jupyter notebooks for the **SMART RNA Editing** workshop, including quick-start guides for analysis and known-site exploration.
 
-You can view and run these notebooks directly in **Google Colab** — no setup required!
-
 ---
 
 ## 📌 Open Notebooks in Google Colab
