@@ -6,7 +6,7 @@ This repository contains interactive Jupyter notebooks for the **SMART RNA Editi
 
 ## 📌 Open Notebooks in Google Colab
 
-### ✨ Editing Denovo call
+### ✨ Editing Denovo call (Quick Start)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bioinfor-Lix/SMART_RNAediting_Zhanglab/blob/main/Editing_denovo_quick_start.ipynb)
 
 **Link:**  
@@ -14,7 +14,7 @@ https://colab.research.google.com/github/Bioinfor-Lix/SMART_RNAediting_Zhanglab/
 
 ---
 
-### ✨ Editing Known Sites (Quick Start)
+### ✨ Known Editing Sites (Quick Start)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bioinfor-Lix/SMART_RNAediting_Zhanglab/blob/main/Editing_Known_quick_start.ipynb)
 
 **Link:**  
