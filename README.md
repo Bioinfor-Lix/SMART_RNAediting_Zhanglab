@@ -14,7 +14,7 @@ https://colab.research.google.com/github/Bioinfor-Lix/SMART_RNAediting_Zhanglab/
 
 ---
 
-### ✨ Known Editing Sites (Quick Start)
+### ✨ Known Editing Sites (Quick Start) From REDIportal
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bioinfor-Lix/SMART_RNAediting_Zhanglab/blob/main/Editing_Known_quick_start.ipynb)
 
 **Link:**  
